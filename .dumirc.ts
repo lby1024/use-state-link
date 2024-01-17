@@ -6,6 +6,7 @@ export default defineConfig({
   publicPath: '/use-state-link/', 
   themeConfig: {
     name: 'use-state-link',
+    prefersColor: { default: 'dark', switch: false },
     logo: false
   },
 });
